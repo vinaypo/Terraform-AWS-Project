@@ -1,0 +1,12 @@
+variable "ami" {}
+variable "instance_type" {}
+variable "keypair" {}
+variable "pub1-subnet-id" {}
+variable "pub2-subnet-id" {}
+variable "websg-id" {}
+variable "file1" {}
+variable "file2" {}
+variable "instance1" {}
+variable "instance2" {}
+variable "profile1" {}
+variable "profile2" {}
