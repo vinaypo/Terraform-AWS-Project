@@ -47,7 +47,7 @@ tgname = "terraform-tg"
 targettype = "instance"
 
 certificate_arn = "acm-certificate arn"
-zone_id = "route-53 id"
+zone_id = "route-53 zone id"
 dns_name = "www.theshaggy.live"
 
 bucket_name = "terraform-bucket-123"
